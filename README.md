@@ -16,7 +16,6 @@ Al ejecutarse se puede visualizar lo siguiente:
 ###### Instalación de glances:
 <img width="1760" height="717" alt="image" src="https://github.com/user-attachments/assets/edb0ca55-7c00-4667-9d0c-663ea149e6b8" /></bir>
 ###### Instalacion de net-tools, para ifconfig:
-Se verifico su nstalación.
 <img width="817" height="130" alt="image" src="https://github.com/user-attachments/assets/5dd92214-21a5-417a-93de-ae405372cd1d" /></bir>
 ###### Se verifico la instalación de nmap:
 <img width="1237" height="144" alt="image" src="https://github.com/user-attachments/assets/0ac62905-3f7a-4b4b-bd7e-b3fb605cca57" /></bir>
